@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayfairCipher", "PlayfairCipher\PlayfairCipher.csproj", "{845694E4-57EB-4567-8E2A-556CCD9DE3D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCipher", "CaesarCipher\CaesarCipher.csproj", "{28C348D8-A75A-4B97-B1FE-46482E2EA6C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoalphabelicCipher", "MonoalphabelicCipher\MonoalphabelicCipher.csproj", "{80E49F6E-3BCE-49B3-B635-804B7C4317A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{845694E4-57EB-4567-8E2A-556CCD9DE3D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845694E4-57EB-4567-8E2A-556CCD9DE3D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845694E4-57EB-4567-8E2A-556CCD9DE3D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845694E4-57EB-4567-8E2A-556CCD9DE3D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28C348D8-A75A-4B97-B1FE-46482E2EA6C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C348D8-A75A-4B97-B1FE-46482E2EA6C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C348D8-A75A-4B97-B1FE-46482E2EA6C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C348D8-A75A-4B97-B1FE-46482E2EA6C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E49F6E-3BCE-49B3-B635-804B7C4317A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E49F6E-3BCE-49B3-B635-804B7C4317A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E49F6E-3BCE-49B3-B635-804B7C4317A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E49F6E-3BCE-49B3-B635-804B7C4317A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B670985-0100-4211-960B-68B638895056}
+	EndGlobalSection
+EndGlobal

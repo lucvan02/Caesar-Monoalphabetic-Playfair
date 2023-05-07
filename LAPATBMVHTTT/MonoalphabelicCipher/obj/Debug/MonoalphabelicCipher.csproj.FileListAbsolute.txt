@@ -1,0 +1,10 @@
+C:\Users\vanlu\Documents\CSharp\LAPATBMVHTTT\MonoalphabelicCipher\obj\Debug\MonoalphabelicCipher.csproj.AssemblyReference.cache
+C:\Users\vanlu\Documents\CSharp\LAPATBMVHTTT\MonoalphabelicCipher\obj\Debug\MonoalphabelicCipher.Properties.Resources.resources
+C:\Users\vanlu\Documents\CSharp\LAPATBMVHTTT\MonoalphabelicCipher\obj\Debug\MonoalphabelicCipher.csproj.GenerateResource.cache
+C:\Users\vanlu\Documents\CSharp\LAPATBMVHTTT\MonoalphabelicCipher\obj\Debug\MonoalphabelicCipher.csproj.CoreCompileInputs.cache
+C:\Users\vanlu\Documents\CSharp\LAPATBMVHTTT\MonoalphabelicCipher\bin\Debug\MonoalphabelicCipher.exe.config
+C:\Users\vanlu\Documents\CSharp\LAPATBMVHTTT\MonoalphabelicCipher\bin\Debug\MonoalphabelicCipher.exe
+C:\Users\vanlu\Documents\CSharp\LAPATBMVHTTT\MonoalphabelicCipher\bin\Debug\MonoalphabelicCipher.pdb
+C:\Users\vanlu\Documents\CSharp\LAPATBMVHTTT\MonoalphabelicCipher\obj\Debug\MonoalphabelicCipher.Form1.resources
+C:\Users\vanlu\Documents\CSharp\LAPATBMVHTTT\MonoalphabelicCipher\obj\Debug\MonoalphabelicCipher.exe
+C:\Users\vanlu\Documents\CSharp\LAPATBMVHTTT\MonoalphabelicCipher\obj\Debug\MonoalphabelicCipher.pdb

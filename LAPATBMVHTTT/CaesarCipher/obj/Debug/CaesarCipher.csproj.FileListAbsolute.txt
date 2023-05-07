@@ -1,0 +1,10 @@
+C:\Users\vanlu\Documents\CSharp\LAPATBMVHTTT\CaesarCipher\bin\Debug\CaesarCipher.exe.config
+C:\Users\vanlu\Documents\CSharp\LAPATBMVHTTT\CaesarCipher\bin\Debug\CaesarCipher.exe
+C:\Users\vanlu\Documents\CSharp\LAPATBMVHTTT\CaesarCipher\bin\Debug\CaesarCipher.pdb
+C:\Users\vanlu\Documents\CSharp\LAPATBMVHTTT\CaesarCipher\obj\Debug\CaesarCipher.csproj.AssemblyReference.cache
+C:\Users\vanlu\Documents\CSharp\LAPATBMVHTTT\CaesarCipher\obj\Debug\CaesarCipher.Form1.resources
+C:\Users\vanlu\Documents\CSharp\LAPATBMVHTTT\CaesarCipher\obj\Debug\CaesarCipher.Properties.Resources.resources
+C:\Users\vanlu\Documents\CSharp\LAPATBMVHTTT\CaesarCipher\obj\Debug\CaesarCipher.csproj.GenerateResource.cache
+C:\Users\vanlu\Documents\CSharp\LAPATBMVHTTT\CaesarCipher\obj\Debug\CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\vanlu\Documents\CSharp\LAPATBMVHTTT\CaesarCipher\obj\Debug\CaesarCipher.exe
+C:\Users\vanlu\Documents\CSharp\LAPATBMVHTTT\CaesarCipher\obj\Debug\CaesarCipher.pdb
